@@ -484,6 +484,11 @@
 		color: #ccc;
 	}
 
+    .skill-row {
+	  display: flex;
+      justify-content: center;
+	}
+
 /* #Misc
    ========================================================================== */
    
